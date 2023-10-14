@@ -1,5 +1,7 @@
 # Cyclone's Proxmox VM / LXC Watchdog
-Release coming soon.
+~~Release coming soon.~~
+
+_`The public release of Proxmox VM Watchdog is on hold. An alternative is Proxmox VE Monitor-All:`_ https://tteck.github.io/Proxmox/
 
 ### Features:
 - Monitor VM & LXC
